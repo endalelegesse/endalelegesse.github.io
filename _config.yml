@@ -1,3 +1,12 @@
 title: "HABTE ENDALE LEGESSE"
 description: "WELCOME TO MY ACADEMIC WEBSITE"
 theme: jekyll-theme-minimal
+header_pages:
+  - index.md
+  - _pages/academic_background.md
+  - _pages/research.md
+  - _pages/publications.md
+  - _pages/software_skills.md
+  - _pages/portfolio.md
+  - _pages/blogs.md
+  - _pages/cv.md
