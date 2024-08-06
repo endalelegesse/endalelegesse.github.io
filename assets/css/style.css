@@ -29,3 +29,19 @@ nav ul li a {
 nav ul li a:hover {
   background-color: #111;
 }
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 150px;
+  border-radius: 50%;
+}
+
+h1, h2, h3 {
+  text-align: center;
+}
+
+p {
+  text-align: justify;
+  padding: 0 20px;
+}
