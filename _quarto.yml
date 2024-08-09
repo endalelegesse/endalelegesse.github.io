@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Elizabeth McDaniel"
+  title: "HABTE ENDALE LEGESSE"
   navbar:
     right:
       - href: index.qmd
