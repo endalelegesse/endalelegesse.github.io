@@ -569,3 +569,6 @@ border-radius: .1em;
 .ai-inverse {
   color: #fff;
 }
+body {
+  background-color: #81D4FA;
+}
