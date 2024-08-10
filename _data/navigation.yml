@@ -1,0 +1,25 @@
+# main links links
+main:
+  -title: "Reseaerch"
+    url: /research/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Award and Honors"
+    url: /Award&Honors/    
+
+  - title: "Software Skills"
+    url: /skills/    
+    
+  - title: "Portfolio"
+    url: /portfolio/
+        
+  - title: "Blog Posts"
+    url: /Blogs/
+    
+  - title: "CV"
+    url: /cv/
+    
+  - title: "Contact Me"
+    url: /Contacts/
