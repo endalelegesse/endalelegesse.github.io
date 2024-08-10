@@ -11,10 +11,10 @@ I am a Wireless Communication researcher affillated with Beijing Jiaotong Univer
 
 M.Sc. in Information and Communication Engineering
 ======
-# Beijing Jiaotong University [ 01/09/2021 – 15/06/2024 ]
-# Thesis: Deep-Learning Based Rain Attenuation Prediction Modeling for Microwave and mmWave Band
+## Beijing Jiaotong University [ 01/09/2021 – 15/06/2024 ]
+### Thesis: Deep-Learning Based Rain Attenuation Prediction Modeling for Microwave and mmWave Band
       In this research work, I focused on applying AI algorithms, particularly deep learning techniques, to predict the impact of weather impairments such as rainfall on modern communication bands, including microwave, mmWave, and THz bands. 
-# Main Courses:
+### Main Courses:
 - New wireless communication technologies                    - Wireless Channel Theory and Modeling Methods
 - 5G mobile communication array signal processing            - OFDM Mobile Communication Technology
 - Communication Signal Processing                            - Digital Communication Theory
@@ -25,8 +25,8 @@ M.Sc. in Information and Communication Engineering
 
 B.Eng. in Communication Engineering 
 ======
-# Beijing Jiaotong University [ 01/09/2017 – 15/06/2021 ]
-# Thesis: FPGA Design of UART Instruction Controller
+## Beijing Jiaotong University [ 01/09/2017 – 15/06/2021 ]
+### Thesis: FPGA Design of UART Instruction Controller
    In this project, I developed a method to design a universal asynchronous transceiver (UART) instruction control design. The design specifications included:
   - **Port Type:** UART
   - **System Clock Frequency:** 24MHz
@@ -34,7 +34,7 @@ B.Eng. in Communication Engineering
   - **Baud Rate:** 9600
   - **Instruction Set Architecture:** a+b, ~a, a^b, a*b
  
-# Main Courses:
+### Main Courses:
   - Electric Circuit          - C/C++ Programming              - Analog & Digital Electronics Technology 
   - Signal & System           - Digital Signal Processing      - Information Theory & Security 
   - Linear Algebra            - Fundamental of Microcontroller - principle of communication system 
