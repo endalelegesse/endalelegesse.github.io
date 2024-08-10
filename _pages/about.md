@@ -17,12 +17,16 @@ M.Sc. in Information and Communication Engineering
 In this research work, I focused on applying AI algorithms, particularly deep learning techniques, to predict the impact of weather impairments such as rainfall on modern communication bands, including microwave, mmWave, and THz bands.
 - 
 ### Main Courses:
-- New wireless communication technologies                    - Wireless Channel Theory and Modeling Methods
-- 5G mobile communication array signal processing            - OFDM Mobile Communication Technology
-- Communication Signal Processing                            - Digital Communication Theory
-- Cellular based Internet of Things Technology               - Microwave Theory and Technology
-- Optimization Method                                        - Maths-Physics Equation
-'My research experience as a master's degree student at Beijing Jiaotong University, School of Eletronics and Information Engineering, Institute of Modern Communication, was focused on fundamentals of wireless comunication technology. I have had the chance to learn the major technologies of wireless communication such as MIMO, OFDM, IoT and AI algorithms such as that of deep learning fundametals and it's application in wireless tech. I have also had the opportunity to work together with my lab mates on different projects. Under my supervisor's [Prof. Xiong Lei](https://faculty.bjtu.edu.cn/eie/8077.html) kind guidance and supervison, I have successfully complitted my master's thesis on the aforementioned title and my work has been accepted for [MLISE 2024 Conference](http://mlise.org/) and has been published on IEEE. 
+
+|                                                Course                                               |
+|------------------------------------------------------|----------------------------------------------|
+| New wireless communication technologies              | Wireless Channel Theory and Modeling Methods |
+| 5G mobile communication array signal processing      | OFDM Mobile Communication Technology         |
+| Communication Signal Processing                      | Digital Communication Theory                 |
+| Cellular based Internet of Things Technology         | Microwave Theory and Technology              |
+| Optimization Method                                  | Maths-Physics Equation                       |
+
+My research experience as a master's degree student at Beijing Jiaotong University, School of Eletronics and Information Engineering, Institute of Modern Communication, was focused on fundamentals of wireless comunication technology. I have had the chance to learn the major technologies of wireless communication such as MIMO, OFDM, IoT and AI algorithms such as that of deep learning fundametals and it's application in wireless tech. I have also had the opportunity to work together with my lab mates on different projects. Under my supervisor's [Prof. Xiong Lei](https://faculty.bjtu.edu.cn/eie/8077.html) kind guidance and supervison, I have successfully complitted my master's thesis on the aforementioned title and my work has been accepted for [MLISE 2024 Conference](http://mlise.org/) and has been published on IEEE. 
 
 
 B.Eng. in Communication Engineering 
@@ -38,11 +42,13 @@ In this project, I developed a method to design a universal asynchronous transce
   - **Instruction Set Architecture:** a+b, ~a, a^b, a*b
  
 ### Main Courses:
-  - Electric Circuit          - C/C++ Programming              - Analog & Digital Electronics Technology 
-  - Signal & System           - Digital Signal Processing      - Information Theory & Security 
-  - Linear Algebra            - Fundamental of Microcontroller - principle of communication system 
-  - Communication Electronics Circuit       - Fundamental of Electromagnetic Field & Propagation   
-  - Fundamental of Wireless Communication   - PTN Technology and Practice   - LTE Mobile Communication Syetem
 
-
-
+|                                                    Course                                                                       |
+|-----------------------------------|----------------------------------------------------|----------------------------------------|
+| Electric Circuit                  | C/C++ Programming                                  | Analog & Digital Electronics Technology|
+| Signal & System                   | Digital Signal Processing                          | Information Theory & Security          |
+| Linear Algebra                    | Fundamental of Microcontroller                     | Principle of Communication System      |
+| Communication Electronics Circuit | Fundamental of Electromagnetic Field & Propagation | Fundamental of Wireless Communication  | 
+| PTN Technology and Practice       | LTE Mobile Communication System                    | Probability and Statistics             |
+| Principle of internet & Technology| Principle & Interface Technology of Microcomputer  | Principle of Communication System      |
+|Foundation of Microcontrollers     | Future Internet Integrated Thematic Research       | Course Project of Microcontrollers     |
