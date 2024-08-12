@@ -1,20 +1,19 @@
 ---
-title: "Teaching experience 2"
-collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+title: "Deep-Learning Based Rain Attenuation Prediction Modeling for Microwave and mmWave Band"
+collection: research
+type: "Master Thesis"
+permalink: /research/Research-2
+venue: "Beijing Jiaotong University, School of Electronics and Information Engineering"
+date: "2021-09-01 - 2024-06-16"
+location: "Beijing, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+My master thesis defense presentation is presented as follow; 
+=====
+<iframe src="https://onedrive.live.com/embed?resid=9CDDD6D29488136D%211950&authkey=!AOvoXJ_joyc5gi0&em=2" width="476" height="288" frameborder="0" scrolling="no"></iframe>
 
-Heading 1
-======
 
-Heading 2
-======
-
+The full thesis can be is available below; 
 Heading 3
 ======
+<iframe src="https://onedrive.live.com/embed?resid=9CDDD6D29488136D%211951&authkey=!AIewj6x2z0E_SCM&em=2" width="476" height="288" frameborder="0" scrolling="no"></iframe>
