@@ -1,6 +1,6 @@
 ---
-Publication Title: "2024 4th International Conference on Machine Learning and Intelligent Systems Engineering (MLISE)"
-Article title: "Rain Attenuation Prediction Modeling for Microwave and Millimeter Wave Band Using LSTM"
+PublicationTitle: "2024 4th International Conference on Machine Learning and Intelligent Systems Engineering (MLISE)"
+Articletitle: "Rain Attenuation Prediction Modeling for Microwave and Millimeter Wave Band Using LSTM"
 collection: publications
 permalink: /publication/2024-08-12-Rain Attenuation Prediction Modeling-2
 date: 2024-08-12
