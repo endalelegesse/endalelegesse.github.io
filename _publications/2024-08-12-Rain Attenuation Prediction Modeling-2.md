@@ -8,4 +8,4 @@ Journal: 'IEEE'
 paperurl: 'http://endalelegesse.github.io/files/RainAttenuation.pdf'
 ---
 
-<iframe src="https://onedrive.live.com/embed?resid=9CDDD6D29488136D%211952&authkey=!ABcAbfSaekvP9GU&em=2" width="476" height="288" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://onedrive.live.com/embed?resid=9CDDD6D29488136D%211952&authkey=!ABcAbfSaekvP9GU&em=2" width="952" height="300" frameborder="0" scrolling="no"></iframe>
