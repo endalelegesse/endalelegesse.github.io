@@ -8,7 +8,5 @@ venue: 'International Journal of Antennas and Propagation'
 paperurl: 'http://endalelegesse.github.io/files/publication-1.pdf'
 ---
 
-<img src="./images/publication/publication-1/abstract.png" alt="abstract">
-
-
+<img src="https://onedrive.live.com/embed?resid=9CDDD6D29488136D%211965&authkey=%21AIeFw3qiBknFJo8&width=1560&height=998" width="1560" height="998" />
 
