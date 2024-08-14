@@ -10,3 +10,4 @@ paperurl: 'http://endalelegesse.github.io/files/publication-1.pdf'
 
 <img src="https://onedrive.live.com/embed?resid=9CDDD6D29488136D%211965&authkey=%21AIeFw3qiBknFJo8&width=1560&height=998" width="1560" height="998" />
 
+<img src="https://onedrive.live.com/embed?resid=9CDDD6D29488136D%211966&authkey=%21ADeU5M07lMUvmzc&width=3308&height=1450" width="3308" height="1450" />
