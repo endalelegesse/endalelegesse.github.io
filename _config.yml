@@ -200,7 +200,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  research:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -209,7 +209,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  Award&Honors:
     output: true
     permalink: /:collection/:path/
 
@@ -234,7 +234,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _research
   - scope:
       path: ""
       type: research
@@ -261,12 +261,12 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _Award&Honors
   - scope:
       path: ""
       type: Award&Honors
     values:
-      layout: talk
+      layout: Award&Honors
       author_profile: true
       share: true
 
