@@ -202,7 +202,7 @@ kramdown:
 collections:
   research:
     output: true
-    permalink: /:collection/:path/
+    permalink: 
   publications:
     output: true
     permalink: /:collection/:path/
