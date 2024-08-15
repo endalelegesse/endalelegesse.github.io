@@ -8,6 +8,8 @@ date: 2024-09-01
 location: "Guangzhou, China"
 ---
 
+<img src="https://onedrive.live.com/embed?resid=9CDDD6D29488136D%211973&authkey=%21AP675mxFQ6bJ6GQ&width=1486&height=974" width="1486" height="974" /><img src="https://onedrive.live.com/embed?resid=9CDDD6D29488136D%211974&authkey=%21ACV14IDMNRTO4tM&width=1661&height=954" width="1661" height="954" /><img src="https://onedrive.live.com/embed?resid=9CDDD6D29488136D%211975&authkey=%21AGo8-jr_FFNvg0g&width=1660&height=944" width="1660" height="944" />
+
 I am currently pursuing my PhD at the School of Electronics and Information Engineering, South China University of Technology. My research focuses on Integrated Sensing and Communication (ISAC), a cutting-edge area that combines sensing and communication functionalities into a unified system. This interdisciplinary approach aims to enhance the efficiency and performance of wireless networks by leveraging advanced signal processing techniques and deep learning algorithms.
 
 Aligned with the vision for 6G networks and the International Telecommunication Union’s (ITU) 2030 motto of “Connecting the Unconnected,” my work involves developing innovative models and algorithms to improve the accuracy and reliability of ISAC systems. These advancements have potential applications in IoT networks, autonomous vehicles, and smart cities. By integrating sensing and communication, my research seeks to address key challenges in modern wireless communication, such as spectrum efficiency, interference management, and real-time data processing.
