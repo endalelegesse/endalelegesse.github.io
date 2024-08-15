@@ -10,10 +10,9 @@ location: "Beijing, China"
 
 My master thesis defense presentation is presented as follow; 
 =====
-<iframe src="https://onedrive.live.com/embed?resid=9CDDD6D29488136D%211950&authkey=!AOvoXJ_joyc5gi0&em=2" width="476" height="288" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://onedrive.live.com/embed?resid=9CDDD6D29488136D%211950&authkey=!AOvoXJ_joyc5gi0&em=2" width="900" height="1000" frameborder="0" scrolling="no"></iframe>
 
 
 The full thesis can be is available below; 
-Heading 3
 ======
-<iframe src="https://onedrive.live.com/embed?resid=9CDDD6D29488136D%211951&authkey=!AIewj6x2z0E_SCM&em=2" width="476" height="288" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://onedrive.live.com/embed?resid=9CDDD6D29488136D%211951&authkey=!AIewj6x2z0E_SCM&em=2" width="900" height="1000" frameborder="0" scrolling="no"></iframe>
