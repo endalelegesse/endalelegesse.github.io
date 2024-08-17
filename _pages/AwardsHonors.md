@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Awards and Honors"
-permalink: /Award&Honors/
+permalink: /AwardsHonors/
 author_profile: true
 ---
 

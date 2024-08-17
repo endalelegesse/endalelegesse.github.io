@@ -261,12 +261,12 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _Award&Honors
+  # _AwardsHonors
   - scope:
       path: ""
-      type: Award&Honors
+      type: AwardsHonors
     values:
-      layout: Award&Honors
+      layout: AwardsHonors
       author_profile: true
       share: true
 
