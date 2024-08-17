@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Software Skills"
 permalink: /skills/
 author_profile: true
 ---
