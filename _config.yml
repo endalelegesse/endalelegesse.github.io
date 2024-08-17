@@ -216,10 +216,10 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
+  # _skills
   - scope:
       path: ""
-      type: posts
+      type: skills
     values:
       layout: single
       author_profile: true
