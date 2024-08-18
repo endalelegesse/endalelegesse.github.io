@@ -7,10 +7,7 @@ main:
     url: /publications/
 
   - title: "Award and Honors"
-    url: /AwardsHonors/    
-
-  - title: "Software Skills"
-    url: /skills/    
+    url: /AwardsHonors/       
     
   - title: "Portfolio"
     url: /portfolio/
