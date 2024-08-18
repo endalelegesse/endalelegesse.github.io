@@ -202,24 +202,31 @@ kramdown:
 collections:
   research:
     output: true
-    permalink: 
+    permalink: /:collection/:path/
   publications:
+    output: true
+    permalink: /:collection/:path/
+  softwareskills:
+    output: true
+    permalink: /:collection/:path/
+  AwardsHonors:
     output: true
     permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
-  Award&Honors:
+  blogposts:
     output: true
     permalink: /:collection/:path/
+  
 
 
 # Defaults
 defaults:
-  # _skills
+  # _softwareskills
   - scope:
       path: ""
-      type: skills
+      type: softwareskills
     values:
       layout: single
       author_profile: true
