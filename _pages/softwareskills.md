@@ -7,7 +7,7 @@ author_profile: true
 
 ## Programming Languages
 - **Matlab:** Proficient in writing scripts and functions for numerical computation and data analysis.  
-  <img src="https://onedrive.live.com/embed?resid=9CDDD6D29488136D%211996&authkey=%21AKM4CSBA0ZW-dNI&width=529&height=127" width="529" height="127" />
+  <img src="https://onedrive.live.com/embed?resid=9CDDD6D29488136D%211996&authkey=%21AKM4CSBA0ZW-dNI&width=529&height=127" width="50" height="50" />
 - **Python:** Experienced in developing applications, data analysis, and machine learning models using libraries like NumPy, Pandas, and Scikit-learn.  
   <img src="https://onedrive.live.com/embed?resid=9CDDD6D29488136D%212001&authkey=!AAKs2eabiOD6AQU" width="98" height="120" />
 - **C/C++:** Proficient in developing efficient and optimized code for various applications.  
