@@ -7,9 +7,9 @@ author_profile: true
 
 ## Programming Languages
 - **Matlab:** Proficient in writing scripts and functions for numerical computation and data analysis.  
-  <img src="https://onedrive.live.com/embed?resid=9CDDD6D29488136D%211996&authkey=%21AKM4CSBA0ZW-dNI&width=529&height=127" width="50" height="50" />
+ <iframe src="https://onedrive.live.com/embed?resid=9CDDD6D29488136D%211995&authkey=!AL9xcAOeYJDlZFM" width="98" height="120" frameborder="0" scrolling="no"></iframe>
 - **Python:** Experienced in developing applications, data analysis, and machine learning models using libraries like NumPy, Pandas, and Scikit-learn.  
-  <img src="https://onedrive.live.com/embed?resid=9CDDD6D29488136D%212001&authkey=!AAKs2eabiOD6AQU" width="98" height="120" />
+  <iframe src="https://onedrive.live.com/embed?resid=9CDDD6D29488136D%212001&authkey=!AAKs2eabiOD6AQU" width="98" height="120" frameborder="0" scrolling="no"></iframe>
 - **C/C++:** Proficient in developing efficient and optimized code for various applications.  
   <iframe src="https://onedrive.live.com/embed?resid=9CDDD6D29488136D%211986&authkey=!AHzrzADjUJaqUJg" width="98" height="120" frameborder="0" scrolling="no"></iframe>
 - **Java/CSS/HTML:** Skilled in building dynamic web applications and user interfaces.  
@@ -35,7 +35,7 @@ author_profile: true
 - **VS Code:** Skilled in using Visual Studio Code as an integrated development environment for various programming languages.  
  <iframe src="https://onedrive.live.com/embed?resid=9CDDD6D29488136D%212007&authkey=!ALJO8Dtxj2_mG1Q" width="98" height="120" frameborder="0" scrolling="no"></iframe>
 - **MS Office:** Experienced in using Microsoft Office suite for documentation, presentation, and data analysis tasks.  
-  <iframe src="https://onedrive.live.com/embed?resid=9CDDD6D29488136D%212007&authkey=!ALJO8Dtxj2_mG1Q" width="98" height="120" frameborder="0" scrolling="no"></iframe>
+  <img src="https://github.com/endalelegesse/endalelegesse.github.io/blob/main/images/software/MS%20Office.svg" alt="MS Office Logo" height="50">
 
 
 # Testimonials
