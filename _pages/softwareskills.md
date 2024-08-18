@@ -7,35 +7,35 @@ author_profile: true
 
 ## Programming Languages
 - **Matlab:** Proficient in writing scripts and functions for numerical computation and data analysis.  
-  <img src="https://github.com/endalelegesse/endalelegesse.github.io/blob/main/images/software/matlab.svg" alt="Matlab Logo" height="50">
+  <img src="https://onedrive.live.com/embed?resid=9CDDD6D29488136D%211996&authkey=%21AKM4CSBA0ZW-dNI&width=529&height=127" width="529" height="127" />
 - **Python:** Experienced in developing applications, data analysis, and machine learning models using libraries like NumPy, Pandas, and Scikit-learn.  
-  <img src="https://github.com/endalelegesse/endalelegesse.github.io/blob/main/images/software/python.svg" alt="Python Logo" height="50">
+  <iframe src="https://onedrive.live.com/embed?resid=9CDDD6D29488136D%212001&authkey=!AAKs2eabiOD6AQU" width="98" height="120" frameborder="0" scrolling="no"></iframe>
 - **C/C++:** Proficient in developing efficient and optimized code for various applications.  
-  <img src="https://github.com/endalelegesse/endalelegesse.github.io/blob/main/images/software/CorC%2B%2B.svg" alt="C/C++ Logo" height="50">
+  <iframe src="https://onedrive.live.com/embed?resid=9CDDD6D29488136D%211986&authkey=!AHzrzADjUJaqUJg" width="98" height="120" frameborder="0" scrolling="no"></iframe>
 - **Java/CSS/HTML:** Skilled in building dynamic web applications and user interfaces.  
-  <img src="https://github.com/endalelegesse/endalelegesse.github.io/blob/main/images/software/java-css-html.svg" alt="Java/CSS/HTML Logo" height="50">
+  <iframe src="https://onedrive.live.com/embed?resid=9CDDD6D29488136D%211993&authkey=!AMkH677vGwKInQQ" width="98" height="120" frameborder="0" scrolling="no"></iframe>
 
 ## Network Simulation Softwares
 - **Huawei eNSP:** Proficient in simulating and configuring network topologies for testing and troubleshooting.  
-  <img src="https://github.com/endalelegesse/endalelegesse.github.io/blob/main/images/software/Huawei-eNSP.svg" alt="Huawei eNSP Logo" height="50">
+  <iframe src="https://onedrive.live.com/embed?resid=9CDDD6D29488136D%211990&authkey=!AIDs5leiovvN3sc" width="98" height="120" frameborder="0" scrolling="no"></iframe>
 - **Wireshark:** Experienced in analyzing network traffic and troubleshooting network issues.  
-  <img src="https://github.com/endalelegesse/endalelegesse.github.io/blob/main/images/software/wireshark.svg" alt="Wireshark Logo" height="50">
+  <iframe src="https://onedrive.live.com/embed?resid=9CDDD6D29488136D%212008&authkey=!AEBl-3PIMRcbNjM" width="98" height="120" frameborder="0" scrolling="no"></iframe>
 - **NS3:** Skilled in network simulation and protocol analysis.  
-  <img src="https://github.com/endalelegesse/endalelegesse.github.io/blob/main/images/software/ns-3.png" alt="NS3 Logo" height="50">
+  <img src="https://onedrive.live.com/embed?resid=9CDDD6D29488136D%211999&authkey=%21AKvJf5MZNp5ylNs&width=563&height=322" width="563" height="322" />
 - **ModelSim:** Proficient in simulating and verifying digital designs using VHDL or Verilog.  
-  <img src="https://github.com/endalelegesse/endalelegesse.io/blob/main/images/software/ModelSim.svg" alt="ModelSim Logo" height="50">
+  <iframe src="https://onedrive.live.com/embed?resid=9CDDD6D29488136D%211997&authkey=!ABkZN-JIYBOBuKw" width="98" height="120" frameborder="0" scrolling="no"></iframe>
 
 ## Software Libraries
 - **TensorFlow:** Experienced in building and training deep learning models for various tasks such as image recognition and natural language processing.  
-  <img src="https://github.com/endalelegesse/endalelegesse.github.io/blob/main/images/software/tensorflow.svg" alt="TensorFlow Logo" height="50">
+  <iframe src="https://onedrive.live.com/embed?resid=9CDDD6D29488136D%212006&authkey=!APYKUBdgd3d2_98" width="98" height="120" frameborder="0" scrolling="no"></iframe>
 
 ## Code or Document Management Software
 - **GitHub:** Proficient in version control, collaboration, and managing repositories for software projects.  
-  <img src="https://github.com/endalelegesse/endalelegesse.github.io/blob/main/images/software/github.svg" alt="GitHub Logo" height="50">
+  <iframe src="https://onedrive.live.com/embed?resid=9CDDD6D29488136D%211989&authkey=!AK_d_NWcfi_QsHY" width="98" height="120" frameborder="0" scrolling="no"></iframe>
 - **VS Code:** Skilled in using Visual Studio Code as an integrated development environment for various programming languages.  
-  <img src="https://github.com/endalelegesse/endalelegesse.github.io/blob/main/images/software/vs%20code.svg" alt="VS Code Logo" height="50">
+ <iframe src="https://onedrive.live.com/embed?resid=9CDDD6D29488136D%212007&authkey=!ALJO8Dtxj2_mG1Q" width="98" height="120" frameborder="0" scrolling="no"></iframe>
 - **MS Office:** Experienced in using Microsoft Office suite for documentation, presentation, and data analysis tasks.  
-  <img src="https://github.com/endalelegesse/endalelegesse.github.io/blob/main/images/software/MS%20Office.svg" alt="MS Office Logo" height="50">
+  <iframe src="https://onedrive.live.com/embed?resid=9CDDD6D29488136D%212007&authkey=!ALJO8Dtxj2_mG1Q" width="98" height="120" frameborder="0" scrolling="no"></iframe>
 
 
 # Testimonials
