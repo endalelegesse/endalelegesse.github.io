@@ -1,7 +1,6 @@
 ---
 title: "Software Skills"
 collection: skills 
-permalink: /skills/software
 gallery:
   - url: /images/software/cmd_pro module input output diagram.png
     image_path: /images/software/cmd_pro module input output diagram.png
