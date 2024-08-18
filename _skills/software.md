@@ -1,6 +1,6 @@
 ---
 title: "Software Skills"
-collection: skills 
+collection: skills
 gallery:
   - url: /images/software/cmd_pro module input output diagram.png
     image_path: /images/software/cmd_pro module input output diagram.png
