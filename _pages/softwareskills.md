@@ -6,36 +6,35 @@ author_profile: true
 ---
 
 ## Programming Languages
-- **Matlab:** Proficient in writing scripts and functions for numerical computation and data analysis.  ![](/images/software/matlab)
+- **Matlab:** Proficient in writing scripts and functions for numerical computation and data analysis.  
+  ![](/images/software/matlab.svg)
 - **Python:** Experienced in developing applications, data analysis, and machine learning models using libraries like NumPy, Pandas, and Scikit-learn.  
-  <iframe src="https://onedrive.live.com/embed?resid=9CDDD6D29488136D%212001&authkey=!AAKs2eabiOD6AQU" width="98" height="120" frameborder="0" scrolling="no"></iframe>
+  ![](/images/software/python.svg)
 - **C/C++:** Proficient in developing efficient and optimized code for various applications.  
-  <iframe src="https://onedrive.live.com/embed?resid=9CDDD6D29488136D%211986&authkey=!AHzrzADjUJaqUJg" width="98" height="120" frameborder="0" scrolling="no"></iframe>
+  ![](/images/software/CorC++.svg)
 - **Java/CSS/HTML:** Skilled in building dynamic web applications and user interfaces.  
-  <iframe src="https://onedrive.live.com/embed?resid=9CDDD6D29488136D%211993&authkey=!AMkH677vGwKInQQ" width="98" height="120" frameborder="0" scrolling="no"></iframe>
-
+  ![](/images/software/java-css-html.svg)
 ## Network Simulation Softwares
 - **Huawei eNSP:** Proficient in simulating and configuring network topologies for testing and troubleshooting.  
-  <iframe src="https://onedrive.live.com/embed?resid=9CDDD6D29488136D%211990&authkey=!AIDs5leiovvN3sc" width="98" height="120" frameborder="0" scrolling="no"></iframe>
+  ![](/images/software/Huawei-eNSP.svg)
 - **Wireshark:** Experienced in analyzing network traffic and troubleshooting network issues.  
-  <iframe src="https://onedrive.live.com/embed?resid=9CDDD6D29488136D%212008&authkey=!AEBl-3PIMRcbNjM" width="98" height="120" frameborder="0" scrolling="no"></iframe>
+  ![](/images/software/wireshark.svg)
 - **NS3:** Skilled in network simulation and protocol analysis.  
-  <img src="https://onedrive.live.com/embed?resid=9CDDD6D29488136D%211999&authkey=%21AKvJf5MZNp5ylNs&width=563&height=322" width="563" height="322" />
+  ![](/images/software/ns-3.png)
 - **ModelSim:** Proficient in simulating and verifying digital designs using VHDL or Verilog.  
-  <iframe src="https://onedrive.live.com/embed?resid=9CDDD6D29488136D%211997&authkey=!ABkZN-JIYBOBuKw" width="98" height="120" frameborder="0" scrolling="no"></iframe>
+  ![](/images/software/ModelSim.svg)
 
 ## Software Libraries
 - **TensorFlow:** Experienced in building and training deep learning models for various tasks such as image recognition and natural language processing.  
-  <iframe src="https://onedrive.live.com/embed?resid=9CDDD6D29488136D%212006&authkey=!APYKUBdgd3d2_98" width="98" height="120" frameborder="0" scrolling="no"></iframe>
+  ![](/images/software/tensorflow.svg)
 
 ## Code or Document Management Software
 - **GitHub:** Proficient in version control, collaboration, and managing repositories for software projects.  
-  <iframe src="https://onedrive.live.com/embed?resid=9CDDD6D29488136D%211989&authkey=!AK_d_NWcfi_QsHY" width="98" height="120" frameborder="0" scrolling="no"></iframe>
+  ![](/images/software/github.svg)
 - **VS Code:** Skilled in using Visual Studio Code as an integrated development environment for various programming languages.  
- <iframe src="https://onedrive.live.com/embed?resid=9CDDD6D29488136D%212007&authkey=!ALJO8Dtxj2_mG1Q" width="98" height="120" frameborder="0" scrolling="no"></iframe>
+ ![](/images/software/vs code.svg)
 - **MS Office:** Experienced in using Microsoft Office suite for documentation, presentation, and data analysis tasks.  
-  <img src="https://github.com/endalelegesse/endalelegesse.github.io/blob/main/images/software/MS%20Office.svg" alt="MS Office Logo" height="50">
-
+  ![](/images/software/MS%20Office.svg)
 
 # Testimonials
 
