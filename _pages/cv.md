@@ -71,12 +71,6 @@ Academic Project experience
 
   * Supervisor:  <a href="https://faculty.bjtu.edu.cn/eie/8077.html">Prof. Xiong Lei</a>
 
-Skills
-======
-<ul>{% for post in site.softwareskills reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -86,4 +80,4 @@ Publications
   
 CV
 ======
-<iframe src="https://onedrive.live.com/embed?resid=9CDDD6D29488136D%212010&authkey=!AHVsizFvlcCW7Hw&em=2" width="476" height="288" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://onedrive.live.com/embed?resid=9CDDD6D29488136D%212010&authkey=!AHVsizFvlcCW7Hw&em=2" width="1080" height="600" frameborder="0" scrolling="no"></iframe>

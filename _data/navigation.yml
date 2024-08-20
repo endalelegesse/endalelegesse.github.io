@@ -20,4 +20,5 @@ main:
     
   - title: "CV"
     url: /cv/
-  
+  - title: "Contact Method"
+    url: /messageme/
