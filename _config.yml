@@ -284,8 +284,15 @@ defaults:
       layout: blogposts
       author_profile: true
       share: true 
-
-
+  # _messageme
+  - scope:
+      path: ""
+      type: messageme
+    values:
+      layout: messageme
+      author_profile: true
+      share: true 
+ 
 # Sass/SCSS
 sass:
   sass_dir: _sass
