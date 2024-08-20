@@ -1,6 +1,6 @@
 ---
-permalink: blogposts
 title: "Blogs and Posts"
+permalink: /blogposts/
 author_profile: true
 redirect_from: 
 ---
@@ -9,7 +9,7 @@ redirect_from:
 
 ## Introduction to ISAC
 
-Integrated Sensing and Communication (ISAC) is an emerging paradigm that combines sensing and communication functionalities into a single system. This integration optimizes resource utilization and enhances overall system performance, making it a key technology for future communication networks, particularly 6G.
+Integrated Sensing and Communication (ISAC) is an emerging paradigm that combines sensing and communication functionalities into a single system. This integration optimizes resource utilization and enhances overall system performance, making it a key technology for future communication networks, particularly 6G. 
 
 ## Technological Foundations
 
