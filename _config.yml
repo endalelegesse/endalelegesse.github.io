@@ -276,6 +276,14 @@ defaults:
       layout: AwardsHonors
       author_profile: true
       share: true
+  # _blogposts
+  - scope:
+      path: ""
+      type: blogposts
+    values:
+      layout: blogposts
+      author_profile: true
+      share: true 
 
 
 # Sass/SCSS

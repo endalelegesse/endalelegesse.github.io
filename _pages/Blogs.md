@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: blogposts
 title: "Blogs and Posts"
 author_profile: true
 redirect_from: 
