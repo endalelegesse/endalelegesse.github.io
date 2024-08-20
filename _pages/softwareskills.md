@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Programming Languages
-- **Matlab:** Proficient in writing scripts and functions for numerical computation and data analysis.   <img src="https://github.com/endalelegesse/endalelegesse.github.io/blob/main/images/software/matlab.svg" alt="Matlab Logo" height="30"> 
+- **Matlab:** Proficient in writing scripts and functions for numerical computation and data analysis.  ![](/images/software/matlab)
 - **Python:** Experienced in developing applications, data analysis, and machine learning models using libraries like NumPy, Pandas, and Scikit-learn.  
   <iframe src="https://onedrive.live.com/embed?resid=9CDDD6D29488136D%212001&authkey=!AAKs2eabiOD6AQU" width="98" height="120" frameborder="0" scrolling="no"></iframe>
 - **C/C++:** Proficient in developing efficient and optimized code for various applications.  

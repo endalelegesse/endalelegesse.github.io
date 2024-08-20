@@ -14,3 +14,5 @@ author_profile: true
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
+
+<img src="https://onedrive.live.com/embed?resid=9CDDD6D29488136D%211958&authkey=%21AENl1yvirdDtJVU&width=5794&height=3863" width="5794" height="3863" />
