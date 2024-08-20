@@ -7,34 +7,43 @@ author_profile: true
 
 ## Programming Languages
 - **Matlab:** Proficient in writing scripts and functions for numerical computation and data analysis.  
-<img src="/images/software/matlab.svg" width="50" height="50" alt="MATLAB Logo">
+<img src="/images/software/matlab.svg" width="80" height="80" alt="MATLAB Logo">
+
 - **Python:** Experienced in developing applications, data analysis, and machine learning models using libraries like NumPy, Pandas, and Scikit-learn.  
-  ![](/images/software/python.svg)
-- **C/C++:** Proficient in developing efficient and optimized code for various applications.  
-  ![](/images/software/CorC++.svg)
+<img src="/images/software/python.svg" width="80" height="80" alt="Python Logo">
+
+- **C/C++:** Proficient in developing efficient and optimized code for various applications.
+<img src="/images/software/CorC++.svg" width="80" height="80" alt="CorC++ Logo">  
+  
 - **Java/CSS/HTML:** Skilled in building dynamic web applications and user interfaces.  
-  ![](/images/software/java-css-html.svg)
+<img src="/images/software/java-css-html.svg" width="80" height="80" alt="java-css-html Logo">
+ 
 ## Network Simulation Softwares
 - **Huawei eNSP:** Proficient in simulating and configuring network topologies for testing and troubleshooting.  
-  ![](/images/software/Huawei-eNSP.svg)
-- **Wireshark:** Experienced in analyzing network traffic and troubleshooting network issues.  
-  ![](/images/software/wireshark.svg)
-- **NS3:** Skilled in network simulation and protocol analysis.  
-  ![](/images/software/ns-3.png)
-- **ModelSim:** Proficient in simulating and verifying digital designs using VHDL or Verilog.  
-  ![](/images/software/ModelSim.svg)
+<img src="/images/software/Huawei_eNSP.webp" width="80" height="80" alt="Huawei eNSP Logo">
+  
+- **Wireshark:** Experienced in analyzing network traffic and troubleshooting network issues. 
+<img src="/images/software/wireshark.svg" width="80" height="80" alt="Wireshark Logo"> 
+
+- **NS3:** Skilled in network simulation and protocol analysis.
+<img src="/images/software/ns-3.png" width="80" height="80" alt="NS-3 Logo">   
+
+- **ModelSim:** Proficient in simulating and verifying digital designs using VHDL or Verilog. 
+<img src="/images/software/ModelSim.svg" width="80" height="80" alt="Modelsim Logo">   
 
 ## Software Libraries
 - **TensorFlow:** Experienced in building and training deep learning models for various tasks such as image recognition and natural language processing.  
-  ![](/images/software/tensorflow.svg)
+<img src="/images/software/tensorflow.svg" width="80" height="80" alt="TensorFlow Logo"> 
 
 ## Code or Document Management Software
-- **GitHub:** Proficient in version control, collaboration, and managing repositories for software projects.  
-  ![](/images/software/github.svg)
+- **GitHub:** Proficient in version control, collaboration, and managing repositories for software projects. 
+ <img src="/images/software/github.svg" width="80" height="80" alt="Github Logo"> 
+
 - **VS Code:** Skilled in using Visual Studio Code as an integrated development environment for various programming languages.  
- ![](/images/software/vs code.svg)
+ <img src="/images/software/vs code.svg" width="80" height="80" alt="VS code Logo"> 
+
 - **MS Office:** Experienced in using Microsoft Office suite for documentation, presentation, and data analysis tasks.  
-  ![](/images/software/MS%20Office.svg)
+ <img src="/images/software/MS%20Office.svg" width="80" height="80" alt="MS Office Logo"> 
 
 # Testimonials
 
