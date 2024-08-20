@@ -84,6 +84,6 @@ Publications
   {% endfor %}</ul>
   
   
-Service and leadership
+CV
 ======
-
+<iframe src="https://onedrive.live.com/embed?resid=9CDDD6D29488136D%212010&authkey=!AHVsizFvlcCW7Hw&em=2" width="476" height="288" frameborder="0" scrolling="no"></iframe>
