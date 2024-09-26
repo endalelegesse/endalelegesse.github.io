@@ -8,7 +8,9 @@ date: 2024-09-01
 location: "Guangzhou, China"
 ---
 
-<img src="https://github.com/endalelegesse/endalelegesse.github.io/blob/main/_research/pictures/ISAC01.jpg" width="1486" height="974" /><img src="https://github.com/endalelegesse/endalelegesse.github.io/blob/main/_research/pictures/isac-1.png" width="1661" height="954" /><img src="https://github.com/endalelegesse/endalelegesse.github.io/blob/main/_research/pictures/isac-2.png" width="1660" height="944" />
+<img src="https://raw.githubusercontent.com/endalelegesse/endalelegesse.github.io/main/_research/pictures/ISAC01.jpg" width="1486" height="974" />
+<img src="https://raw.githubusercontent.com/endalelegesse/endalelegesse.github.io/main/_research/pictures/isac-1.png" width="1661" height="954" />
+<img src="https://raw.githubusercontent.com/endalelegesse/endalelegesse.github.io/main/_research/pictures/isac-2.png" width="1660" height="944" />
 
 I am currently pursuing my PhD at the School of Electronics and Information Engineering, South China University of Technology. My research focuses on Integrated Sensing and Communication (ISAC), a cutting-edge area that combines sensing and communication functionalities into a unified system. This interdisciplinary approach aims to enhance the efficiency and performance of wireless networks by leveraging advanced signal processing techniques and deep learning algorithms.
 
