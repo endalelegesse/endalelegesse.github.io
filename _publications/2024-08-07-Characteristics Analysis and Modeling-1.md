@@ -3,10 +3,9 @@ title: "Characteristics Analysis and Modeling of Train-to-Train Wireless Channel
 collection: publications
 permalink: /publication/2024-08-07-Characteristics Analysis and Modeling-1
 date: 2024-08-07
-venue: 'International Journal of Antennas and Propagation'
-paperurl: 'http://endalelegesse.github.io/files/publication-1.pdf'
+Journal: 'International Journal of Antennas and Propagation'
+paperurl: 'http://endalelegesse.github.io/files/International Journal of Antennas and Propagation - 2024 - Liu - Characteristic Analysis and Modeling of Train‐to‐Train (1).pdf'
+link: 'https://doi.org/10.1155/2024/9497970'
+code: 'https://onlinelibrary.wiley.com/doi/10.1155/2024/9497970'
+citation: 'Liu, Yingfei, Xiong, Lei, Fei, Dan, Liu, Rui, Habte, Endale Legesse, Characteristic Analysis and Modeling of Train-to-Train Wireless Channel in Station Scenario, International Journal of Antennas and Propagation, 2024, 9497970, 17 pages, 2024. https://doi.org/10.1155/2024/9497970'
 ---
-
-<img src="https://onedrive.live.com/embed?resid=9CDDD6D29488136D%211965&authkey=%21AIeFw3qiBknFJo8&width=1560&height=998" width="1560" height="998" />
-
-<img src="https://onedrive.live.com/embed?resid=9CDDD6D29488136D%211966&authkey=%21ADeU5M07lMUvmzc&width=3308&height=1450" width="3308" height="1450" />
