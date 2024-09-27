@@ -10,8 +10,7 @@ location: "Beijing, China"
 
 My master thesis defense presentation is presented as follow; 
 =====
-<iframe src="https://github.com/endalelegesse/endalelegesse.github.io/raw/main/_research/files/21129039HabteEndaleLegesse毕业答辩.pdf" width="1080" height="600" frameborder="0" scrolling="no">
-</iframe>
+[View Slides](https://github.com/endalelegesse/endalelegesse.github.io/raw/main/_research/files/21129039HabteEndaleLegesse毕业答辩.pdf) 
 
 The full thesis can be is available below; 
 ======
